@@ -16,7 +16,27 @@ This project focuses on analyzing e-commerce sales data to gain insights into cu
 ⪼Provide business insights for decision-making
 
 ## 🔧 Tools & Technologies
+**Excel / CSV Dataset:**
+Used as the primary data source
+Contained sales, customer, and product information.
+
 **Microsoft Power BI:**
 Used to build interactive dashboards and reports, 
 Created visualizations like bar charts, line charts, and KPI cards, 
-Enabled data storytelling through dashboards
+Enabled data storytelling through dashboards.
+
+**Power Query (Data Cleaning):**
+Performed data cleaning and transformation, 
+Handled missing values and removed duplicates, 
+Converted data types and prepared data for analysis.
+
+**DAX (Data Analysis Expressions):**
+Created calculated measures and columns, 
+Used for KPIs such as Total Sales, Profit, and Average Order Value, 
+Enabled advanced data analysis within Power BI.
+
+**Business Analysis:**
+Interpreted data to generate insights, 
+Identified trends and patterns, 
+Provided data-driven recommendations.
+
