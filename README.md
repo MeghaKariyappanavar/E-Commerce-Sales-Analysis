@@ -1,10 +1,10 @@
 # E-Commerce-Sales-Analysis
 E-commerce sales analysis dashboard built in Microsoft Power BI to track performance, trends, and customer insights.
 
-# Project Overview
+## 🔷  Project Overview
 This project focuses on analyzing e-commerce sales data to gain insights into customer purchasing behavior, sales performance, and business trends. The dashboard was developed using Microsoft Power BI to provide interactive and data-driven insights.
 
-# Objectives
+## 🔷 Objectives
 ⪼Analyze overall sales performance
 
 ⪼Identify top-selling products and categories
@@ -14,3 +14,9 @@ This project focuses on analyzing e-commerce sales data to gain insights into cu
 ⪼Track revenue trends over time
 
 ⪼Provide business insights for decision-making
+
+## 🔧 Tools & Technologies
+Microsoft Power BI
+Used to build interactive dashboards and reports, 
+Created visualizations like bar charts, line charts, and KPI cards, 
+Enabled data storytelling through dashboards
