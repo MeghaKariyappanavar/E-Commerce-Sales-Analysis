@@ -39,7 +39,7 @@ Enabled advanced data analysis within Power BI.
 Interpreted data to generate insights, 
 Identified trends and patterns, 
 
-## Key Insights
+## 📄 Key Insights
 ⪼Identified top-performing product categories
 
 ⪼Observed seasonal sales trends
@@ -49,7 +49,7 @@ Identified trends and patterns,
 ⪼Highlighted underperforming areas
 Provided data-driven recommendations.
 
-## Business Recommendations
+## 🎯 Business Recommendations
 › Focus on high-performing products
 
 › Improve marketing for low-performing categories
