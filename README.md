@@ -39,6 +39,9 @@ Enabled advanced data analysis within Power BI.
 Interpreted data to generate insights, 
 Identified trends and patterns, 
 
+## 🔹 Dashboard
+
+
 ## 📄 Key Insights
 ⪼Identified top-performing product categories
 
