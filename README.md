@@ -41,7 +41,7 @@ Interpreted data to generate insights,
 Identified trends and patterns, 
 
 ## 🔹 Dashboard
-<a href="
+<a href="https://github.com/MeghaKariyappanavar/E-Commerce-Sales-Analysis/blob/main/Capture.JPG"> View Dashboard </a>
 
 
 ## 📄 Key Insights
