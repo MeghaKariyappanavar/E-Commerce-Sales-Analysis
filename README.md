@@ -56,5 +56,5 @@ Provided data-driven recommendations.
 
 › Optimize pricing strategy
 
-›Target high-value customers
+› Target high-value customers
 
