@@ -19,7 +19,7 @@ This project focuses on analyzing e-commerce sales data to gain insights into cu
 **Excel / CSV Dataset:**
 Used as the primary data source
 Contained sales, customer, and product information.
-https://github.com/MeghaKariyappanavar/E-Commerce-Sales-Analysis/blob/main/OnlineRetailProject.xlsx
+- <a href="https://github.com/MeghaKariyappanavar/E-Commerce-Sales-Analysis/blob/main/OnlineRetailProject.xlsx"> Dataset </a>
 
 **Microsoft Power BI:**
 Used to build interactive dashboards and reports, 
@@ -41,6 +41,7 @@ Interpreted data to generate insights,
 Identified trends and patterns, 
 
 ## 🔹 Dashboard
+<a href="
 
 
 ## 📄 Key Insights
