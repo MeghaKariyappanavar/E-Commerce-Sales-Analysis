@@ -50,11 +50,11 @@ Identified trends and patterns,
 Provided data-driven recommendations.
 
 ## Business Recommendations
-›Focus on high-performing products
+› Focus on high-performing products
 
-›Improve marketing for low-performing categories
+› Improve marketing for low-performing categories
 
-›Optimize pricing strategy
+› Optimize pricing strategy
 
 ›Target high-value customers
 
