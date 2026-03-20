@@ -16,7 +16,7 @@ This project focuses on analyzing e-commerce sales data to gain insights into cu
 ⪼Provide business insights for decision-making
 
 ## 🔧 Tools & Technologies
-Microsoft Power BI
+**Microsoft Power BI:**
 Used to build interactive dashboards and reports, 
 Created visualizations like bar charts, line charts, and KPI cards, 
 Enabled data storytelling through dashboards
