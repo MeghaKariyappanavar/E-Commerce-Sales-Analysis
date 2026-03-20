@@ -38,5 +38,23 @@ Enabled advanced data analysis within Power BI.
 **Business Analysis:**
 Interpreted data to generate insights, 
 Identified trends and patterns, 
+
+## Key Insights
+⪼Identified top-performing product categories
+
+⪼Observed seasonal sales trends
+
+⪼Found high-revenue customer segments
+
+⪼Highlighted underperforming areas
 Provided data-driven recommendations.
+
+## Business Recommendations
+›Focus on high-performing products
+
+›Improve marketing for low-performing categories
+
+›Optimize pricing strategy
+
+›Target high-value customers
 
